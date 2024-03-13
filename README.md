@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🚀 Boostcamp WM2023 iOS10-OpenList
+Naver Boostcamp WM2023에서 진행한 iOS 프로젝트 - OpenList <br>
+[**👉 Check it out!**](https://github.com/boostcampwm2023/iOS10-OpenList)
+![image](https://github.com/yangdongsuk/yangdongsuk/assets/51476641/88cb13c9-c0ba-4f65-a21b-9e59092e495f)
 
 <!--
 **yangdongsuk/yangdongsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
